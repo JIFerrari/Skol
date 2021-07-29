@@ -1,0 +1,39 @@
+/* menu - header*/
+
+/* #demo .carousel-item{
+    height: 1040px;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+ .claseDiv {			/* Boton insta */
+	max-width: 50px;
+	height: auto;
+	transition: all ease-in 0.6s;       
+ }
+ .claseDiv:hover {
+	transform: scale(1.5);
+ }
+
+.fondo{
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url(../image/fondo-prueba3.jpg);
+}
+
+.clasep{
+	padding: 25px;
+	background-color: white;
+}
+
+.p-2 p{
+	margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.clasemargin{
+	margin: 25px 0 0 0;
+}
